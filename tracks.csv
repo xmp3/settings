@@ -1,0 +1,575 @@
+id,title,artist,album,cover,file,collection_id
+miki_matsubara,Stay with Me,Miki Matsubara,Miki Matsubara Best Collection,miki_matsubara_best_collection.jpeg,stay_with_me.mp3,miki_matsubara
+gotye,Somebody That I Used To Know,"Gotye, Kimbra",Making Mirrors,making_mirrors.jpeg,somebody_that_i_used_to_know.mp3,gotye
+jorge_vercillo,Invisível,Jorge Vercillo,Jorge Vercilo Ao Vivo,jorge_vercilo_ao_vivo.jpeg,invisivel.mp3,jorge_vercillo
+jorge_vercillo,Ela Une Todas As Coisas,Jorge Vercillo,Todos Nós Somos Um,todos_nos_somos_um.jpeg,ela_une_todas_as_coisas.mp3,jorge_vercillo
+jorge_vercillo,Final Feliz,"Jorge Vercillo, Djavan",Jorge Vercilo Ao Vivo,jorge_vercilo_ao_vivo.jpeg,final_feliz.mp3,jorge_vercillo
+jorge_vercillo,Homem-Aranha,Jorge Vercillo,Jorge Vercilo Ao Vivo,jorge_vercilo_ao_vivo.jpeg,homem_aranha.mp3,jorge_vercillo
+jorge_vercillo,Monalisa,Jorge Vercillo,Jorge Vercilo Ao Vivo,jorge_vercilo_ao_vivo.jpeg,monalisa.mp3,jorge_vercillo
+jorge_vercillo,O Reino Das Águas Claras,Jorge Vercillo,Elo,elo.jpeg,o_reino_das_aguas_claras.mp3,jorge_vercillo
+jorge_vercillo,Sensível Demais,Jorge Vercillo,Como Diria Blavatsky,como_diria_blavatsky.jpeg,sensivel_demais.mp3,jorge_vercillo
+jorge_vercillo,Endereço,Jorge Vercillo,Endereço,endereco.jpeg,endereco.mp3,jorge_vercillo
+jorge_vercillo,Que Nem Maré,Jorge Vercillo,Elo,elo.jpeg,que_nem_mare.mp3,jorge_vercillo
+jorge_vercillo,Melhor Lugar,Jorge Vercillo,Jorge Vercilo Ao Vivo,jorge_vercilo_ao_vivo.jpeg,melhor_lugar.mp3,jorge_vercillo
+alok,Never Let Me Go,"Alok, Bruno Martini, Zeeba",Never Let Me Go,never_let_me_go.jpeg,never_let_me_go.mp3,alok
+alok,Hear Me Now,"Alok, Bruno Martini, Zeeba",Hear Me Now,hear_me_now_feat_zeeba.jpeg,hear_me_now.mp3,alok
+djavan,Eu Te Devoro,Djavan,Ária - Ao Vivo,aria__ao_vivo.jpeg,eu_te_devoro.mp3,djavan
+djavan,Lilás,Djavan,Lilás,lilas.jpeg,lilas.mp3,djavan
+djavan,Linha do Equador,Djavan,Coisa de Acender,coisa_de_acender.jpeg,linha_do_equador.mp3,djavan
+djavan,Flor de Lis,Djavan,A Voz e o Violão,a_voz_e_o_violao.jpeg,flor_de_lis.mp3,djavan
+djavan,Sina,Djavan,Luz,luz.jpeg,sina.mp3,djavan
+djavan,Oceano,Djavan,Djavan,djavan.jpeg,oceano.mp3,djavan
+djavan,Nem um Dia,Djavan,Malásia,malasia.jpeg,nem_um_dia.mp3,djavan
+djavan,Samurai,Djavan,Luz,luz.jpeg,samurai.mp3,djavan
+nirvana,Smells Like Teen Spirit,Nirvana,Nevermind (Remastered),nevermind_remastered.jpeg,smells_like_teen_spirit.mp3,nirvana
+nirvana,Come As You Are,Nirvana,Nevermind (Remastered),nevermind_remastered.jpeg,come_as_you_are.mp3,nirvana
+legiao_urbana,Será,Legião Urbana,Legião Urbana,legiao_urbana.jpeg,sera.mp3,legiao_urbana
+legiao_urbana,Daniel Na Cova Dos Leões,Legião Urbana,Dois,dois.jpeg,daniel_na_cova_dos_leoes.mp3,legiao_urbana
+legiao_urbana,Sete Cidades,Legião Urbana,As Quatro Estações,as_quatro_estacoes.jpeg,sete_cidades.mp3,legiao_urbana
+legiao_urbana,Tempo Perdido,Legião Urbana,Dois,dois.jpeg,tempo_perdido.mp3,legiao_urbana
+legiao_urbana,Geração Coca-Cola,Legião Urbana,Legião Urbana,legiao_urbana.jpeg,geracao_cocacola.mp3,legiao_urbana
+legiao_urbana,O Teatro Dos Vampiros,Legião Urbana,Legiao Urbana V,legiao_urbana_v.jpeg,o_teatro_dos_vampiros.mp3,legiao_urbana
+legiao_urbana,Quando O Sol Bater Na Janela Do Teu Quarto,Legião Urbana,As Quatro Estações,as_quatro_estacoes.jpeg,quando_o_sol_bater_na_janela_do_teu_quarto.mp3,legiao_urbana
+legiao_urbana,Há Tempos,Legião Urbana,As Quatro Estações,as_quatro_estacoes.jpeg,ha_tempos.mp3,legiao_urbana
+legiao_urbana,Índios,Legião Urbana,Dois,dois.jpeg,indios.mp3,legiao_urbana
+legiao_urbana,Eu Sei,Legião Urbana,Que Pais E Este,que_pais_e_este.jpeg,eu_sei.mp3,legiao_urbana
+legiao_urbana,Andrea Doria,Legião Urbana,Dois,dois.jpeg,andrea_doria.mp3,legiao_urbana
+legiao_urbana,Maurício,Legião Urbana,As Quatro Estações,as_quatro_estacoes.jpeg,mauricio.mp3,legiao_urbana
+legiao_urbana,O Mundo Anda Tão Complicado,Legião Urbana,Legiao Urbana V,legiao_urbana_v.jpeg,o_mundo_anda_tao_complicado.mp3,legiao_urbana
+legiao_urbana,Eduardo E Mônica,Legião Urbana,Dois,dois.jpeg,eduardo_e_monica.mp3,legiao_urbana
+legiao_urbana,Meninos E Meninas,Legião Urbana,As Quatro Estações,as_quatro_estacoes.jpeg,meninos_e_meninas.mp3,legiao_urbana
+legiao_urbana,Ainda É Cedo,Legião Urbana,Legião Urbana,legiao_urbana.jpeg,ainda_e_cedo.mp3,legiao_urbana
+legiao_urbana,Vento No Litoral,Legião Urbana,Legiao Urbana V,legiao_urbana_v.jpeg,vento_no_litoral.mp3,legiao_urbana
+legiao_urbana,Se Fiquei Esperando Meu Amor Passar,Legião Urbana,As Quatro Estações,as_quatro_estacoes.jpeg,se_fiquei_esperando_meu_amor_passar.mp3,legiao_urbana
+legiao_urbana,Pais E Filhos,Legião Urbana,As Quatro Estações,as_quatro_estacoes.jpeg,pais_e_filhos.mp3,legiao_urbana
+legiao_urbana,Giz,Legião Urbana,O Descobrimento Do Brasil,o_descobrimento_do_brasil.jpeg,giz.mp3,legiao_urbana
+legiao_urbana,Que País É Este,Legião Urbana,Que País É Este,que_pais_e_este.jpeg,que_pais_e_este.mp3,legiao_urbana
+legiao_urbana,Eu Era Um Lobisomem Juvenil,Legião Urbana,As Quatro Estações,as_quatro_estacoes.jpeg,eu_era_um_lobisomem_juvenil.mp3,legiao_urbana
+legiao_urbana,Quase Sem Querer,Legião Urbana,Dois,dois.jpeg,quase_sem_querer.mp3,legiao_urbana
+the_chainsmokers,Closer,"The Chainsmokers, Halsey",Closer,closer.jpeg,closer.mp3,the_chainsmokers
+the_chainsmokers,Don't Let Me Down,"The Chainsmokers, Daya",Don't Let Me Down,dont_let_me_down.jpeg,dont_let_me_down.mp3,the_chainsmokers
+the_chainsmokers,Paris,The Chainsmokers,Memories...Do Not Open,memoriesdo_not_open.jpeg,paris.mp3,the_chainsmokers
+the_chainsmokers,Something Just Like This,"The Chainsmokers, Coldplay",Memories...Do Not Open,memoriesdo_not_open.jpeg,something_just_like_this.mp3,the_chainsmokers
+the_beatles,Help!,The Beatles,Help! (Remastered),help_remastered.jpeg,help.mp3,the_beatles
+the_beatles,Don't Let Me Down,The Beatles,The Beatles 1967 - 1970 (Remastered),the_beatles_1967__1970_remastered.jpeg,dont_let_me_down.mp3,the_beatles
+the_beatles,Hey Jude,The Beatles,1 (Remastered),1_remastered.jpeg,hey_jude.mp3,the_beatles
+the_beatles,Let It Be,The Beatles,Let It Be (Remastered),let_it_be_remastered.jpeg,let_it_be.mp3,the_beatles
+the_beatles,Yesterday,The Beatles,Help! (Remastered),help_remastered.jpeg,yesterday.mp3,the_beatles
+nx_zero,Silêncio,NX Zero,Agora,agora.jpeg,silencio.mp3,nx_zero
+nx_zero,Razões E Emoções,NX Zero,NX Zero,nx_zero.jpeg,razoes_e_emocoes.mp3,nx_zero
+nx_zero,Cedo Ou Tarde,NX Zero,Agora,agora.jpeg,cedo_ou_tarde.mp3,nx_zero
+nx_zero,Tarde Demais,NX Zero,NX Zero,nx_zero.jpeg,tarde_demais.mp3,nx_zero
+akon,Don't Matter,Akon,Konvicted,konvicted.jpeg,dont_matter.mp3,akon
+akon,Smack That,"Akon, Eminem",Konvicted (Complete Edition),konvicted_complete_edition.jpeg,smack_that.mp3,akon
+akon,Lonely,Akon,Trouble,trouble.jpeg,lonely.mp3,akon
+akon,Right Now (Na Na Na),Akon,Freedom,freedom.jpeg,right_now_na_na_na.mp3,akon
+nando_reis,N,Nando Reis,Sim E Não,sim_e_nao.jpeg,n.mp3,nando_reis
+nando_reis,Sei,Nando Reis,Sei,sei.jpeg,sei.mp3,nando_reis
+nando_reis,Nos Seus Olhos,Nando Reis,Nos Seus Olhos,nos_seus_olhos.jpeg,nos_seus_olhos.mp3,nando_reis
+nando_reis,Pra Você Guardei o Amor,Nando Reis,Dres,dres.jpeg,pra_voce_guardei_o_amor.mp3,nando_reis
+nando_reis,Luz dos Olhos,Nando Reis,"A Letra ""A""",a_letra_a.jpeg,luz_dos_olhos.mp3,nando_reis
+nando_reis,Dentro do Mesmo Time,Nando Reis,"Nando Reis - Voz e Violão - No Recreio, Vol. 1 (Ao Vivo)",nando_reis__voz_e_violao__no_recreio_vol_1_ao_vivo.jpeg,dentro_do_mesmo_time.mp3,nando_reis
+nando_reis,As Coisas Tão Mais Lindas,Nando Reis,Nando Reis - Voz e Violão - No Recreio - Vol. 1 (Ao Vivo) [Álbum Comentado],nando_reis__voz_e_violao__no_recreio__vol_1_ao_vivo_album_comentado.jpeg,as_coisas_tao_mais_lindas.mp3,nando_reis
+nando_reis,Por Onde Andei,Nando Reis,"Nando Reis - Voz e Violão - No Recreio, Vol. 1 (Ao Vivo)",nando_reis__voz_e_violao__no_recreio_vol_1_ao_vivo.jpeg,por_onde_andei.mp3,nando_reis
+nando_reis,Os Cegos do Castelo,Nando Reis,"Nando Reis - Voz e Violão - No Recreio, Vol. 1 (Ao Vivo)",nando_reis__voz_e_violao__no_recreio_vol_1_ao_vivo.jpeg,os_cegos_do_castelo.mp3,nando_reis
+nando_reis,Lamento Realengo,Nando Reis,"Nando Reis - Voz e Violão - No Recreio, Vol. 1 (Ao Vivo)",nando_reis__voz_e_violao__no_recreio_vol_1_ao_vivo.jpeg,lamento_realengo.mp3,nando_reis
+stevie_wonder,Part-Time Lover,Stevie Wonder,In Square Circle,in_square_circle.jpeg,parttime_lover.mp3,stevie_wonder
+stevie_wonder,I Just Called To Say I Love You,Stevie Wonder,At The Close Of A Century,at_the_close_of_a_century.jpeg,i_just_called_to_say_i_love_you.mp3,stevie_wonder
+conde_do_forro,Segunda Opção,Conde do Forró,Maltratando os Corações,maltratando_os_coracoes.jpeg,segunda_opcao.mp3,conde_do_forro
+conde_do_forro,O Telefone Tocou,Conde do Forró,Maltratando os Corações,maltratando_os_coracoes.jpeg,o_telefone_tocou.mp3,conde_do_forro
+conde_do_forro,Babá de Confusão,Conde do Forró,Maltratando os Corações,maltratando_os_coracoes.jpeg,baba_de_confusao.mp3,conde_do_forro
+conde_do_forro,Encontro Com o Passado,Conde do Forró,Maltratando os Corações,maltratando_os_coracoes.jpeg,encontro_com_o_passado.mp3,conde_do_forro
+conde_do_forro,Você Vai Lembrar,Conde do Forró,Maltratando os Corações,maltratando_os_coracoes.jpeg,voce_vai_lembrar.mp3,conde_do_forro
+conde_do_forro,Chegou ao Fim,Conde do Forró,Maltratando os Corações,maltratando_os_coracoes.jpeg,chegou_ao_fim.mp3,conde_do_forro
+conde_do_forro,Chorar Todo Dia,Conde do Forró,Maltratando os Corações,maltratando_os_coracoes.jpeg,chorar_todo_dia.mp3,conde_do_forro
+conde_do_forro,Ligando os Fatos,Conde do Forró,Maltratando os Corações,maltratando_os_coracoes.jpeg,ligando_os_fatos.mp3,conde_do_forro
+conde_do_forro,Vai Embora,Conde do Forró,Maltratando os Corações,maltratando_os_coracoes.jpeg,vai_embora.mp3,conde_do_forro
+conde_do_forro,Perto de Mim,Conde do Forró,Maltratando os Corações,maltratando_os_coracoes.jpeg,perto_de_mim.mp3,conde_do_forro
+conde_do_forro,Trocaria Tudo,Conde do Forró,Maltratando os Corações,maltratando_os_coracoes.jpeg,trocaria_tudo.mp3,conde_do_forro
+conde_do_forro,Planos Impossíveis,Conde do Forró,Maltratando os Corações,maltratando_os_coracoes.jpeg,planos_impossiveis.mp3,conde_do_forro
+conde_do_forro,Quando Amanhecer,Conde do Forró,Maltratando os Corações,maltratando_os_coracoes.jpeg,quando_amanhecer.mp3,conde_do_forro
+conde_do_forro,Me Dói,Conde do Forró,Maltratando os Corações,maltratando_os_coracoes.jpeg,me_doi.mp3,conde_do_forro
+conde_do_forro,Uma Noite Num Motel,Conde do Forró,Maltratando os Corações,maltratando_os_coracoes.jpeg,uma_noite_num_motel.mp3,conde_do_forro
+conde_do_forro,Pagando pra Ver,Conde do Forró,Maltratando os Corações,maltratando_os_coracoes.jpeg,pagando_pra_ver.mp3,conde_do_forro
+conde_do_forro,15 Minutos,Conde do Forró,Maltratando os Corações,maltratando_os_coracoes.jpeg,15_minutos.mp3,conde_do_forro
+conde_do_forro,Tenho Medo,Conde do Forró,Maltratando os Corações,maltratando_os_coracoes.jpeg,tenho_medo.mp3,conde_do_forro
+conde_do_forro,Pessoa Errada,Conde do Forró,Maltratando os Corações,maltratando_os_coracoes.jpeg,pessoa_errada.mp3,conde_do_forro
+conde_do_forro,Destruiu Nosso Amor,Conde do Forró,Maltratando os Corações,maltratando_os_coracoes.jpeg,destruiu_nosso_amor.mp3,conde_do_forro
+conde_do_forro,Mesa de Bar,Conde do Forró,Maltratando os Corações,maltratando_os_coracoes.jpeg,mesa_de_bar.mp3,conde_do_forro
+conde_do_forro,Vê Se Pode,Conde do Forró,Maltratando os Corações,maltratando_os_coracoes.jpeg,ve_se_pode.mp3,conde_do_forro
+queen,Don't Stop Me Now,Queen,Discover More Classic Rock,discover_more_classic_rock.jpeg,dont_stop_me_now.mp3,queen
+queen,Bohemian Rhapsody,Queen,Stone Cold Classics,stone_cold_classics.jpeg,bohemian_rhapsody.mp3,queen
+queen,We Are The Champions,Queen,Stone Cold Classics,stone_cold_classics.jpeg,we_are_the_champions.mp3,queen
+queen,Another One Bites The Dust,Queen,Stone Cold Classics,stone_cold_classics.jpeg,another_one_bites_the_dust.mp3,queen
+queen,We Will Rock You,Queen,Stone Cold Classics,stone_cold_classics.jpeg,we_will_rock_you.mp3,queen
+queen,Radio Ga Ga,Queen,The Works (Deluxe Remastered Version),the_works_deluxe_remastered_version.jpeg,radio_ga_ga.mp3,queen
+queen,I Want To Break Free,Queen,Bohemian Rhapsody (The Original Soundtrack),bohemian_rhapsody_the_original_soundtrack.jpeg,i_want_to_break_free.mp3,queen
+steven_universe,Full Disclosure,"Steven Universe, Zach Callison","Steven Universe, Vol. 1 (Original Soundtrack)",steven_universe_vol_1_original_soundtrack.jpeg,full_disclosure.mp3,steven_universe
+steven_universe,Let Me Drive My Van Into Your Heart,"Steven Universe, Tom Scharpling","Steven Universe, Vol. 1 (Original Soundtrack)",steven_universe_vol_1_original_soundtrack.jpeg,let_me_drive_my_van_into_your_heart.mp3,steven_universe
+steven_universe,Haven't You Noticed (I'm a Star),"Steven Universe, Olivia Olson","Steven Universe, Vol. 1 (Original Soundtrack)",steven_universe_vol_1_original_soundtrack.jpeg,havent_you_noticed_im_a_star.mp3,steven_universe
+steven_universe,Comet,"Steven Universe, Tom Scharpling","Steven Universe, Vol. 1 (Original Soundtrack)",steven_universe_vol_1_original_soundtrack.jpeg,comet.mp3,steven_universe
+steven_universe,Stronger Than You,"Steven Universe, Estelle","Steven Universe, Vol. 1 (Original Soundtrack)",steven_universe_vol_1_original_soundtrack.jpeg,stronger_than_you.mp3,steven_universe
+steven_universe,What Can I Do (For You),"Steven Universe, Susan Egan, Tom Scharpling","Steven Universe, Vol. 1 (Original Soundtrack)",steven_universe_vol_1_original_soundtrack.jpeg,what_can_i_do_for_you.mp3,steven_universe
+steven_universe,Do It For Her,"Steven Universe, Grace Rolek, Zach Callison","Steven Universe, Vol. 1 (Original Soundtrack)",steven_universe_vol_1_original_soundtrack.jpeg,do_it_for_her.mp3,steven_universe
+steven_universe,Peace and Love on the Planet Earth,"Steven Universe, Deedee Magno Hall, Estelle, Michaela Dietz, Shelby Rabara, Zach Callison","Steven Universe, Vol. 1 (Original Soundtrack)",steven_universe_vol_1_original_soundtrack.jpeg,peace_and_love_on_the_planet_earth.mp3,steven_universe
+steven_universe,It's Over Isn't It,"Steven Universe, Deedee Magno Hall","Steven Universe, Vol. 1 (Original Soundtrack)",steven_universe_vol_1_original_soundtrack.jpeg,its_over_isnt_it.mp3,steven_universe
+steven_universe,Something Entirely New,"Steven Universe, Charlyne Yi, Erica Luttrell","Steven Universe, Vol. 1 (Original Soundtrack)",steven_universe_vol_1_original_soundtrack.jpeg,something_entirely_new.mp3,steven_universe
+steven_universe,Strong in the Real Way,"Steven Universe, Deedee Magno Hall, Zach Callison","Steven Universe, Vol. 1 (Original Soundtrack)",steven_universe_vol_1_original_soundtrack.jpeg,strong_in_the_real_way.mp3,steven_universe
+steven_universe,Love Like You,"Steven Universo, Rebecca Sugar","Steven Universe, Vol. 1 (Original Soundtrack)",steven_universe_vol_1_original_soundtrack.jpeg,love_like_you_feat_rebecca_sugar_end_credits.mp3,steven_universe
+steven_universe,Be Wherever You Are,"Steven Universe, Zach Callison","Steven Universe, Vol. 1 (Original Soundtrack)",steven_universe_vol_1_original_soundtrack.jpeg,be_wherever_you_are.mp3,steven_universe
+steven_universe,Here Comes a Thought,"Steven Universe, AJ Michalka, Estelle","Steven Universe, Vol. 1 (Original Soundtrack)",steven_universe_vol_1_original_soundtrack.jpeg,here_comes_a_thought.mp3,steven_universe
+steven_universe,That Distant Shore,"Steven Universe, Jennifer Paz","Steven Universe, Vol. 2 (Original Soundtrack)",steven_universe_vol_2_original_soundtrack.jpeg,that_distant_shore.mp3,steven_universe
+steven_universe,We Are The Crystal Gems,"Steven Universe, Deedee Magno Hall, Estelle, Michaela Dietz, Tom Scharpling, Zach Callison","Steven Universe, Vol. 1 (Original Soundtrack)",steven_universe_vol_1_original_soundtrack.jpeg,we_are_the_crystal_gems.mp3,steven_universe
+steven_universe,Escapism,"Steven Universe, AJ Michalka, Grace Rolek, Zach Callison","Steven Universe, Vol. 2 (Original Soundtrack)",steven_universe_vol_2_original_soundtrack.jpeg,escapism.mp3,steven_universe
+mariah_carey,Hero,Mariah Carey,Music Box,music_box.jpeg,hero.mp3,mariah_carey
+mariah_carey,All I Want for Christmas Is You,Mariah Carey,Merry Christmas,merry_christmas.jpeg,all_i_want_for_christmas_is_you.mp3,mariah_carey
+mariah_carey,Without You,Mariah Carey,Music Box,music_box.jpeg,without_you.mp3,mariah_carey
+george_michael,Careless Whisper,George Michael,George Michael Ladies & Gentlemen: The Best of George Michael,ladies_and_gentlemen_the_best_of_george_michael.jpeg,careless_whisper.mp3,george_michael
+naruto,Blue Bird,Ikimonogakari,Chou Ikimonobakari Tennen Kinen Members Best Selection,chou_ikimonobakari_tennen_kinen_members_best_selection.jpeg,blue_bird.mp3,naruto
+naruto,Silhouette,KANA-BOON,TIME,time.jpeg,silhouette.mp3,naruto
+naruto,Haruka Kanata,Asian Kung-Fu Generation,BEST HIT AKG,best_hit_akg.jpeg,haruka_kanata.mp3,naruto
+roxette,Listen To Your Heart,Roxette,Look Sharp!,look_sharp.jpeg,listen_to_your_heart.mp3,roxette
+roxette,Spending My Time,Roxette,Joyride (Deluxe Version),joyride_deluxe_version.jpeg,spending_my_time.mp3,roxette
+charlie_brown_jr,Dona do Meu Pensamento,Charlie Brown Jr.,Camisa 10 joga bola até na chuva,camisa_10_joga_bola_ate_na_chuva.jpeg,dona_do_meu_pensamento.mp3,charlie_brown_jr
+charlie_brown_jr,Pontes Indestrutíveis,Charlie Brown Jr.,"Ritmo, Ritual E Responsa",ritmo_ritual_e_responsa.jpeg,pontes_indestrutiveis.mp3,charlie_brown_jr
+charlie_brown_jr,Me Encontra,Charlie Brown Jr.,Camisa 10 joga bola até na chuva,camisa_10_joga_bola_ate_na_chuva.jpeg,me_encontra.mp3,charlie_brown_jr
+charlie_brown_jr,Não Viva Em Vão,Charlie Brown Jr.,"Ritmo, Ritual E Responsa",ritmo_ritual_e_responsa.jpeg,nao_viva_em_vao.mp3,charlie_brown_jr
+charlie_brown_jr,Tudo Que Ela Gosta De Escutar,Charlie Brown Jr.,Transpiração Continua Prolongada,transpiracao_continua_prolongada.jpeg,tudo_que_ela_gosta_de_escutar.mp3,charlie_brown_jr
+charlie_brown_jr,Te Levar Daqui,Charlie Brown Jr.,"Preço Curto, Prazo Longo",preco_curto_prazo_longo.jpeg,te_levar_daqui.mp3,charlie_brown_jr
+charlie_brown_jr,Zóio De Lula,Charlie Brown Jr.,"Preço Curto, Prazo Longo",preco_curto_prazo_longo.jpeg,zoio_de_lula.mp3,charlie_brown_jr
+charlie_brown_jr,Tamo Aí Na Atividade,Charlie Brown Jr.,Tamo Ai Na Atividade,tamo_ai_na_atividade.jpeg,tamo_ai_na_atividade.mp3,charlie_brown_jr
+charlie_brown_jr,Só Por Uma Noite,Charlie Brown Jr.,Bocas Ordinárias,bocas_ordinarias.jpeg,so_por_uma_noite.mp3,charlie_brown_jr
+charlie_brown_jr,Meu Novo Mundo,Charlie Brown Jr.,La Familia 013,la_familia_013.jpeg,meu_novo_mundo.mp3,charlie_brown_jr
+charlie_brown_jr,Ela Vai Voltar (Todos Os Defeitos De Uma Mulher Perfeita),Charlie Brown Jr.,Imunidade Musical,imunidade_musical.jpeg,ela_vai_voltar_todos_os_defeitos_de_uma_mulher_perfeita.mp3,charlie_brown_jr
+charlie_brown_jr,Longe De Você,Charlie Brown Jr.,Tamo Ai Na Atividade,tamo_ai_na_atividade.jpeg,longe_de_voce.mp3,charlie_brown_jr
+charlie_brown_jr,Lugar Ao Sol,Charlie Brown Jr.,100% Charlie Brown Jr - Abalando A Sua Fábrica,100_charlie_brown_jr__abalando_a_sua_fabrica.jpeg,lugar_ao_sol.mp3,charlie_brown_jr
+charlie_brown_jr,Senhor Do Tempo,Charlie Brown Jr.,Imunidade Musical,imunidade_musical.jpeg,senhor_do_tempo.mp3,charlie_brown_jr
+charlie_brown_jr,Lutar Pelo Que É Meu,Charlie Brown Jr.,Imunidade Musical,imunidade_musical.jpeg,lutar_pelo_que_e_meu.mp3,charlie_brown_jr
+charlie_brown_jr,"Dias De Luta, Dias De Gloria",Charlie Brown Jr.,Imunidade Musical,imunidade_musical.jpeg,dias_de_luta_dias_de_gloria.mp3,charlie_brown_jr
+charlie_brown_jr,Céu Azul,Charlie Brown Jr.,Música Popular Caiçara: Edição Luxo (Ao Vivo),musica_popular_caicara_edicao_luxo_ao_vivo.jpeg,ceu_azul.mp3,charlie_brown_jr
+charlie_brown_jr,Só Os Loucos Sabem,Charlie Brown Jr.,Camisa 10 joga bola até na chuva,camisa_10_joga_bola_ate_na_chuva.jpeg,so_os_loucos_sabem.mp3,charlie_brown_jr
+charlie_brown_jr,Como Tudo Deve Ser,Charlie Brown Jr.,100% Charlie Brown Jr - Abalando A Sua Fábrica,100_charlie_brown_jr__abalando_a_sua_fabrica.jpeg,como_tudo_deve_ser.mp3,charlie_brown_jr
+justin_timberlake,Mirrors,Justin Timberlake,The 20/20 Experience,the_2020_experience_deluxe_version.jpeg,mirrors.mp3,justin_timberlake
+justin_timberlake,Love Never Felt So Good,"Michael Jackson, Justin Timberlake",Xscape,xscape.jpeg,love_never_felt_so_good.mp3,justin_timberlake
+justin_timberlake,Can't Stop the Feeling!,Justin Timberlake,Trolls,trolls_original_motion_picture_soundtrack.jpeg,cant_stop_the_feeling.mp3,justin_timberlake
+alphaville,Forever Young,Alphaville,Forever Young,forever_young.jpeg,forever_young.mp3,alphaville
+calvin_harris,Blame,"Calvin Harris, John Newman",Motion,motion.jpeg,blame.mp3,calvin_harris
+calvin_harris,Outside,"Calvin Harris, Ellie Goulding",Motion,motion.jpeg,outside.mp3,calvin_harris
+calvin_harris,Feel So Close,Calvin Harris,18 Months,18_months.jpeg,feel_so_close.mp3,calvin_harris
+calvin_harris,Summer,Calvin Harris,Motion,motion.jpeg,summer.mp3,calvin_harris
+calvin_harris,One Kiss,"Calvin Harris, Dua Lipa",One Kiss (with Dua Lipa),one_kiss_with_dua_lipa.jpeg,one_kiss.mp3,calvin_harris
+calvin_harris,This Is What You Came For,"Calvin Harris, Rihanna",This Is What You Came For,this_is_what_you_came_for.jpeg,this_is_what_you_came_for.mp3,calvin_harris
+calvin_harris,How Deep Is Your Love,"Calvin Harris, Disciples",How Deep Is Your Love,how_deep_is_your_love.jpeg,how_deep_is_your_love.mp3,calvin_harris
+lionel_richie,"Say You, Say Me",Lionel Richie,Dancing On The Ceiling (Expanded Edition),dancing_on_the_ceiling_expanded_edition.jpeg,say_you_say_me.mp3,lionel_richie
+lionel_richie,Stuck On You,Lionel Richie,Can't Slow Down,cant_slow_down.jpeg,stuck_on_you.mp3,lionel_richie
+lionel_richie,Easy,Lionel Richie,Tuskegee,tuskegee.jpeg,easy.mp3,lionel_richie
+billy_idol,Eyes Without A Face,Billy Idol,Rebel Yell,rebel_yell.jpeg,eyes_without_a_face.mp3,billy_idol
+radiohead,Creep,Radiohead,Pablo Honey,pablo_honey.jpeg,creep.mp3,radiohead
+eminem,Lose Yourself,Eminem,Curtain Call: The Hits (Deluxe Edition),curtain_call_the_hits_deluxe_edition.jpeg,lose_yourself.mp3,eminem
+eminem,Love The Way You Lie,"Eminem, Rihanna",Recovery,recovery.jpeg,love_the_way_you_lie.mp3,eminem
+eminem,Rap God,Eminem,The Marshall Mathers LP2 (Deluxe),the_marshall_mathers_lp2_deluxe.jpeg,rap_god.mp3,eminem
+eminem,Stan,"Eminem, Dido",The Marshall Mathers LP,the_marshall_mathers_lp.jpeg,stan.mp3,eminem
+eminem,The Real Slim Shady,Eminem,The Marshall Mathers LP,the_marshall_mathers_lp.jpeg,the_real_slim_shady.mp3,eminem
+bee_gees,Night Fever,Bee Gees,How Can You Mend A Broken Heart,how_can_you_mend_a_broken_heart.jpeg,night_fever.mp3,bee_gees
+bee_gees,Stayin Alive,Bee Gees,How Can You Mend A Broken Heart,how_can_you_mend_a_broken_heart.jpeg,stayin_alive.mp3,bee_gees
+bee_gees,More Than A Woman,Bee Gees,How Can You Mend A Broken Heart,how_can_you_mend_a_broken_heart.jpeg,more_than_a_woman.mp3,bee_gees
+bee_gees,How Deep Is Your Love,Bee Gees,Greatest,greatest.jpeg,how_deep_is_your_love.mp3,bee_gees
+bee_gees,Too Much Heaven,Bee Gees,Spirits Having Flown,spirits_having_flown.jpeg,too_much_heaven.mp3,bee_gees
+keane,Somewhere Only We Know,Keane,Hopes and Fears,hopes_and_fears_deluxe_edition.jpeg,somewhere_only_we_know.mp3,keane
+marshmello,Alone,Marshmello,Alone,alone.jpeg,alone.mp3,marshmello
+spandau_ballet,True,Spandau Ballet,The Twelve Inch Mixes,the_twelve_inch_mixes.jpeg,true.mp3,spandau_ballet
+sean_kingston,Beautiful Girls,Sean Kingston,Beautiful Girls,beautiful_girls.jpeg,beautiful_girls.mp3,sean_kingston
+sean_kingston,Eenie Meenie,"Sean Kingston, Justin Bieber",Eenie Meenie EP,eenie_meenie_ep.jpeg,eenie_meenie.mp3,sean_kingston
+luan_santana,Acordando O Prédio,Luan Santana,Acordando o Prédio,acordando_o_predio.jpeg,acordando_o_predio.mp3,luan_santana
+luan_santana,"Eu, Você, o Mar e Ela",Luan Santana,1977,1977.jpeg,eu_voce_o_mar_e_ela.mp3,luan_santana
+luan_santana,Boa Memória,Luan Santana,VIVA (Ao Vivo),viva_ao_vivo.jpeg,boa_memoria.mp3,luan_santana
+luan_santana,"Dia, Lugar e Hora",Luan Santana,"Dia, Lugar e Hora - Single",dia_lugar_e_hora__single.jpeg,dia_lugar_e_hora.mp3,luan_santana
+luan_santana,Mesmo Sem Estar,"Luan Santana, Sandy",1977,1977.jpeg,mesmo_sem_estar.mp3,luan_santana
+luan_santana,Fantasma,"Luan Santana, Marília Mendonça",1977,1977.jpeg,fantasma.mp3,luan_santana
+luan_santana,Cê Vai Perder Essa Mulher,Luan Santana,VIVA (Ao Vivo),viva_ao_vivo.jpeg,ce_vai_perder_essa_mulher.mp3,luan_santana
+luan_santana,Chuva de Arroz,Luan Santana,Acústico (Ao Vivo),acustico_ao_vivo.jpeg,chuva_de_arroz.mp3,luan_santana
+luan_santana,Tudo o Que Você Quiser,Luan Santana,O Nosso Tempo É Hoje (ao Vivo),o_nosso_tempo_e_hoje_ao_vivo.jpeg,tudo_o_que_voce_quiser.mp3,luan_santana
+luan_santana,Te Esperando,Luan Santana,Te Esperando - Single,te_esperando__single.jpeg,te_esperando.mp3,luan_santana
+luan_santana,2050,Luan Santana,2050,2050.jpeg,2050.mp3,luan_santana
+luan_santana,Asas,Luan Santana,ASAS,asas.jpeg,asas.mp3,luan_santana
+luan_santana,Você De Mim Não Sai,Luan Santana,Quando Chega a Noite (Ao Vivo),quando_chega_a_noite_ao_vivo.jpeg,voce_de_mim_nao_sai.mp3,luan_santana
+luan_santana,Incondicional,Luan Santana,Quando Chega a Noite (Ao Vivo),quando_chega_a_noite_ao_vivo.jpeg,incondicional.mp3,luan_santana
+luan_santana,Por Te Amar Assim,Luan Santana,Confraternização Família Santana 1,confraternizacao_familia_santana_1.jpeg,por_te_amar_assim.mp3,luan_santana
+luan_santana,Sorria,"Luan Santana, Mc Don Juan",SORRIA,sorria.jpeg,sorria.mp3,luan_santana
+luan_santana,Um Beijo,Luan Santana,Ao Vivo No Rio,ao_vivo_no_rio.jpeg,um_beijo.mp3,luan_santana
+luan_santana,Àgua Com Açúcar,Luan Santana,VIVA (Ao Vivo),viva_ao_vivo.jpeg,agua_com_acucar.mp3,luan_santana
+luan_santana,Sogrão Caprichou,Luan Santana,O Nosso Tempo É Hoje (ao Vivo),o_nosso_tempo_e_hoje_ao_vivo.jpeg,sograo_caprichou.mp3,luan_santana
+luan_santana,Morena,Luan Santana,MORENA,morena.jpeg,morena.mp3,luan_santana
+luan_santana,Te Vivo,Luan Santana,As Melhores... Até Aqui,as_melhores_ate_aqui.jpeg,te_vivo.mp3,luan_santana
+usa_for_africa,We Are The World,U.S.A. For Africa,We Are The World,we_are_the_world.jpeg,we_are_the_world.mp3,usa_for_africa
+paul_young,Every Time You Go Away,Paul Young,From Time To Time - The Singles Collection,from_time_to_time__the_singles_collection.jpeg,every_time_you_go_away.mp3,paul_young
+guilherme_arantes,Cheia de Charme,Guilherme Arantes,Despertar,despertar.jpeg,cheia_de_charme.mp3,guilherme_arantes
+guilherme_arantes,Um Dia um Adeus,Guilherme Arantes,Guilherme Arantes,guilherme_arantes.jpeg,um_dia_um_adeus.mp3,guilherme_arantes
+lagum,Bem Melhor,Lagum,Bem Melhor,bem_melhor.jpeg,bem_melhor.mp3,lagum
+lagum,Não Vou Mentir,Lagum,Não Vou Mentir,nao_vou_mentir.jpeg,nao_vou_mentir.mp3,lagum
+lagum,Não Vou Falar De Amor,Lagum,MEMÓRIAS (de onde eu nunca fui),memorias_de_onde_eu_nunca_fui.jpeg,nao_vou_falar_de_amor.mp3,lagum
+lagum,Detesto Despedidas,Lagum,Coisas da Geração,coisas_da_geracao.jpeg,detesto_despedidas.mp3,lagum
+lagum,Veja Baby,Lagum,MEMÓRIAS (de onde eu nunca fui),memorias_de_onde_eu_nunca_fui.jpeg,veja_baby.mp3,lagum
+lagum,Se For Pra Ser,Lagum,Coisas da Geração,coisas_da_geracao.jpeg,se_for_pra_ser.mp3,lagum
+lagum,Chegou de Manso,Lagum,Coisas da Geração,coisas_da_geracao.jpeg,chegou_de_manso.mp3,lagum
+lagum,Andar Sozinho,"Lagum, Jão",Coisas da Geração,coisas_da_geracao.jpeg,andar_sozinho.mp3,lagum
+lagum,Ninguém Me Ensinou,Lagum,NINGUÉM ME ENSINOU,ninguem_me_ensinou.jpeg,ninguem_me_ensinou.mp3,lagum
+lagum,Grato Um Tanto,Lagum,Coisas da Geração,coisas_da_geracao.jpeg,grato_um_tanto.mp3,lagum
+lagum,Deixa,"Lagum, Ana Gabriela",Deixa (feat. Ana Gabriela),deixa_feat_ana_gabriela.jpeg,deixa_feat_ana_gabriela.mp3,lagum
+lagum,Sem Hora,Lagum,Seja o Que Eu Quiser,seja_o_que_eu_quiser.jpeg,sem_hora.mp3,lagum
+lagum,Falando a Verdade,Lagum,Coisas da Geração,coisas_da_geracao.jpeg,falando_a_verdade.mp3,lagum
+lagum,Oi,Lagum,Coisas da Geração,coisas_da_geracao.jpeg,oi.mp3,lagum
+lagum,Reggae Bom,Lagum,Coisas da Geração,coisas_da_geracao.jpeg,reggae_bom.mp3,lagum
+lagum,Ou Não,Lagum,Depois do Fim,depois_do_fim.jpeg,ou_nao.mp3,lagum
+lagum,Fale Mais,Lagum,Coisas da Geração,coisas_da_geracao.jpeg,fale_mais.mp3,lagum
+lagum,É Seu,Lagum,Coisas da Geração,coisas_da_geracao.jpeg,e_seu.mp3,lagum
+lagum,Telefone,Lagum,Telefone,telefone.jpeg,telefone.mp3,lagum
+anri,Remember Summer Days,Anri,Timely!!,timely.jpeg,remember_summer_days.mp3,anri
+anri,Good Bye Boogie Dance,Anri,Bi Ki Ni,bikini.jpeg,good_bye_boogie_dance.mp3,anri
+anri,DRIVING MY LOVE,Anri,Timely!!,timely.jpeg,driving_my_love.mp3,anri
+anri,Shyness Boy,Anri,Timely!!,timely.jpeg,shyness_boy.mp3,anri
+anri,Heaven Beach,Anri,Heaven Beach,heaven_beach.jpeg,heaven_beach.mp3,anri
+anri,Windy Summer,Anri,Timely!!,timely.jpeg,windy_summer.mp3,anri
+anri,STAY BY ME,Anri,Timely!!,timely.jpeg,stay_by_me.mp3,anri
+anri,I Can't Stop The Loneliness,Anri,Timely!!,timely.jpeg,i_cant_stop_the_loneliness.mp3,anri
+anri,Last Summer Whisper,Anri,Heaven Beach,heaven_beach.jpeg,last_summer_whisper.mp3,anri
+dragon_ball_portuguese,Makafushigi Adventure!,Ricardo Junior,Dragon Ball (1986-1989),dragon_ball.jpeg,makafushigi_adventure.mp3,dragon_ball_portuguese
+dragon_ball_portuguese,Cha-La Head-Cha-La,"Miura Jam BR, Rod Rossi","Cha-la Head-Cha-la (De ""Dragon Ball Z"")",chala_headchala_de_dragon_ball_z.jpeg,chala_headchala.mp3,dragon_ball_portuguese
+dragon_ball_portuguese,Dragon Soul,"Miura Jam BR, Rod Rossi",Dragon Soul,dragon_soul.jpeg,dragon_soul.mp3,dragon_ball_portuguese
+dragon_ball_portuguese,We Gotta Power,Miura Jam BR,We Gotta Power (Dragon Ball Z),we_gotta_power_dragon_ball_z.jpeg,we_gotta_power.mp3,dragon_ball_portuguese
+dragon_ball_portuguese,Sorriso Resplandecente,Ricardo Junior,Sorriso Resplandecente (from Dragon Ball GT),sorriso_resplandecente_from_dragon_ball_gt.jpeg,sorriso_resplandecente.mp3,dragon_ball_portuguese
+coldplay,Viva La Vida,Coldplay,Viva La Vida or Death and All His Friends,viva_la_vida_or_death_and_all_his_friends.jpeg,viva_la_vida.mp3,coldplay
+coldplay,A Sky Full of Stars,Coldplay,Ghost Stories,ghost_stories.jpeg,a_sky_full_of_stars.mp3,coldplay
+coldplay,Paradise,Coldplay,Mylo Xyloto,mylo_xyloto.jpeg,paradise.mp3,coldplay
+coldplay,Clocks,Coldplay,A Rush of Blood to the Head,a_rush_of_blood_to_the_head.jpeg,clocks.mp3,coldplay
+coldplay,Trouble,Coldplay,Parachutes,parachutes.jpeg,trouble.mp3,coldplay
+coldplay,Don't Panic,Coldplay,Parachutes,parachutes.jpeg,dont_panic.mp3,coldplay
+coldplay,Yellow,Coldplay,Parachutes,parachutes.jpeg,yellow.mp3,coldplay
+coldplay,Fix You,Coldplay,X&Y,xy.jpeg,fix_you.mp3,coldplay
+bon_jovi,You Give Love A Bad Name,Bon Jovi,Slippery When Wet,slippery_when_wet.jpeg,you_give_love_a_bad_name.mp3,bon_jovi
+bon_jovi,Never Say Goodbye,Bon Jovi,Slippery When Wet,slippery_when_wet.jpeg,never_say_goodbye.mp3,bon_jovi
+bon_jovi,It's My Life,Bon Jovi,Crush,crush.jpeg,its_my_life.mp3,bon_jovi
+bon_jovi,I'll Be There For You,Bon Jovi,New Jersey,new_jersey_deluxe_edition.jpeg,ill_be_there_for_you.mp3,bon_jovi
+bon_jovi,Livin' On A Prayer,Bon Jovi,Slippery When Wet,slippery_when_wet.jpeg,livin_on_a_prayer.mp3,bon_jovi
+bon_jovi,Always,Bon Jovi,Cross Road,cross_road.jpeg,always.mp3,bon_jovi
+bon_jovi,Bed Of Roses,Bon Jovi,Keep The Faith,keep_the_faith.jpeg,bed_of_roses.mp3,bon_jovi
+harry_styles,As It Was,Harry Styles,Harry's House,harrys_house.jpeg,as_it_was.mp3,harry_styles
+lewis_capaldi,Someone You Loved,Lewis Capaldi,Divinely Uninspired to a Hellish Extent,divinely_uninspired_to_a_hellish_extent.jpeg,someone_you_loved.mp3,lewis_capaldi
+lewis_capaldi,Before You Go,Lewis Capaldi,Divinely Uninspired to a Hellish Extent,divinely_uninspired_to_a_hellish_extent_extended_edition.jpeg,before_you_go.mp3,lewis_capaldi
+cyndi_lauper,Girls Just Want to Have Fun,Cyndi Lauper,Shes So Unusual,shes_so_unusual.jpeg,girls_just_want_to_have_fun.mp3,cyndi_lauper
+cyndi_lauper,True Colors,Cyndi Lauper,True Colors,true_colors.jpeg,true_colors.mp3,cyndi_lauper
+cyndi_lauper,Time After Time,Cyndi Lauper,Shes So Unusual,shes_so_unusual.jpeg,time_after_time.mp3,cyndi_lauper
+renato_russo,La Solitudine,Renato Russo,VIVA - Renato Russo,viva__renato_russo.jpeg,la_solitudine.mp3,renato_russo
+renato_russo,Strani Amori,Renato Russo,VIVA - Renato Russo,viva__renato_russo.jpeg,strani_amori.mp3,renato_russo
+renato_russo,Mais Uma Vez,Renato Russo,VIVA - Renato Russo,viva__renato_russo.jpeg,mais_uma_vez.mp3,renato_russo
+zedd,Candyman,"Zedd, Aloe Blacc",Candyman,candyman.jpeg,candyman.mp3,zedd
+maroon_5,Don't Wanna Know,"Maroon 5, Kendrick Lamar",Red Pill Blues (Deluxe),red_pill_blues_deluxe.jpeg,dont_wanna_know.mp3,maroon_5
+maroon_5,Memories,Mar oon 5,JORDI (Deluxe),jordi_deluxe.jpeg,memories.mp3,maroon_5
+maroon_5,Sunday Morning,Maroon 5,Songs About Jane: 10th Anniversary Edition,songs_about_jane_10th_anniversary_edition.jpeg,sunday_morning.mp3,maroon_5
+maroon_5,Animals,Maroon 5,V,v.jpeg,animals.mp3,maroon_5
+maroon_5,This Love,Maroon 5,Songs About Jane: 10th Anniversary Edition,songs_about_jane_10th_anniversary_edition.jpeg,this_love.mp3,maroon_5
+maroon_5,Moves Like Jagger,Maroon 5,Hands All Over,hands_all_over.jpeg,moves_like_jagger.mp3,maroon_5
+maroon_5,Won't Go Home Without You,Maroon 5,It Won't Be Soon Before Long (International Version),it_wont_be_soon_before_long_international_version.jpeg,wont_go_home_without_you.mp3,maroon_5
+maroon_5,One More Night,Maroon 5,Overexposed Track By Track,overexposed_track_by_track.jpeg,one_more_night.mp3,maroon_5
+maroon_5,Payphone,"Maroon 5, Wiz Khalifa",Overexposed Track By Track,overexposed_track_by_track.jpeg,payphone.mp3,maroon_5
+maroon_5,Maps,Maroon 5,V,v.jpeg,maps.mp3,maroon_5
+maroon_5,Misery,Maroon 5,Hands All Over (Revised International Standard version),hands_all_over_revised_international_standard_version.jpeg,misery.mp3,maroon_5
+maroon_5,What Lovers Do,"Maroon 5, SZA",Red Pill Blues (Deluxe),red_pill_blues_deluxe.jpeg,what_lovers_do.mp3,maroon_5
+maroon_5,Cold,"Maroon 5, Future",Red Pill Blues (Deluxe),red_pill_blues_deluxe.jpeg,cold.mp3,maroon_5
+raca_negra,Cheia de Manias,Raça Negra,Cheia de Manias,cheia_de_manias.jpeg,cheia_de_manias.mp3,raca_negra
+raca_negra,É Tarde Demais,Raça Negra,Raça Negra - Vol. 6,raca_negra__vol_6.jpeg,e_tarde_demais.mp3,raca_negra
+raca_negra,Perdôa,Raça Negra,Raça Negra,raca_negra.jpeg,perdoa.mp3,raca_negra
+raca_negra,Me Leva Junto Com Você,Raça Negra,Raça Negra Ao Vivo,raca_negra_ao_vivo.jpeg,me_leva_junto_com_voce.mp3,raca_negra
+raca_negra,Estou Mal,Raça Negra,Raça Negra - Vol. 4,raca_negra__vol_4.jpeg,estou_mal.mp3,raca_negra
+raca_negra,Quando Te Encontrei,Raça Negra,Grandes Sucessos,grandes_sucessos.jpeg,quando_te_encontrei.mp3,raca_negra
+raca_negra,Cigana,Raça Negra,Raça Negra 25 Anos (Ao Vivo),raca_negra_25_anos_ao_vivo.jpeg,cigana.mp3,raca_negra
+raca_negra,Ciúme de Você,Raça Negra,Grandes Sucessos,grandes_sucessos.jpeg,ciume_de_voce.mp3,raca_negra
+raca_negra,Volta,Raça Negra,Grandes Sucessos,grandes_sucessos.jpeg,volta.mp3,raca_negra
+raca_negra,Te Quero Comigo,Raça Negra,Grandes Sucessos,grandes_sucessos.jpeg,te_quero_comigo.mp3,raca_negra
+raca_negra,Preciso Ter Alguém,Raça Negra,Raça Negra - Vol. 7,raca_negra__vol_7.jpeg,preciso_ter_alguem.mp3,raca_negra
+raca_negra,Maravilha,Raça Negra,Raça Negra 25 Anos (Ao Vivo),raca_negra_25_anos_ao_vivo.jpeg,maravilha.mp3,raca_negra
+raca_negra,Sozinho,Raça Negra,Raça Negra - Vol. 7,raca_negra__vol_7.jpeg,sozinho.mp3,raca_negra
+bonnie_tyler,Making Love,Bonnie Tyler,Free Spirit,free_spirit.jpeg,making_love.mp3,bonnie_tyler
+bonnie_tyler,Total Eclipse of the Heart,Bonnie Tyler,The Very Best of Bonnie Tyler,the_very_best_of_bonnie_tyler.jpeg,total_eclipse_of_the_heart.mp3,bonnie_tyler
+whitney_houston,Greatest Love of All,Whitney Houston,Whitney Houston,whitney_houston.jpeg,greatest_love_of_all.mp3,whitney_houston
+whitney_houston,I Will Always Love You,Whitney Houston,The Bodyguard - Original Soundtrack Album,the_bodyguard__original_soundtrack_album.jpeg,i_will_always_love_you.mp3,whitney_houston
+whitney_houston,I Have Nothing,Whitney Houston,The Bodyguard - Original Soundtrack Album,the_bodyguard__original_soundtrack_album.jpeg,i_have_nothing.mp3,whitney_houston
+europe,The Final Countdown,Europe,The Final Countdown (Expanded Edition),the_final_countdown_expanded_edition.jpeg,the_final_countdown.mp3,europe
+europe,Carrie,Europe,The Final Countdown (Expanded Edition),the_final_countdown_expanded_edition.jpeg,carrie.mp3,europe
+nocopyrightsounds,Heroes Tonight,"Janji, Johnning",NoCopyrightSounds,heroes_tonight.jpeg,heroes_tonight.mp3,nocopyrightsounds
+nocopyrightsounds,Adventure,JJD,Adventure,ncs.jpeg,adventure.mp3,nocopyrightsounds
+nocopyrightsounds,Why We Lose,"Cartoon, Jéja, Coleman Trapp",Why We Lose,why_we_lose.jpeg,why_we_lose.mp3,nocopyrightsounds
+nocopyrightsounds,Superhero,"Unknown Brain, Chris Linton",Superhero,superhero.jpeg,superhero.mp3,nocopyrightsounds
+nocopyrightsounds,Sky High,Elektronomia,Sky High,sky_high.jpeg,sky_high.mp3,nocopyrightsounds
+nocopyrightsounds,On & On,"Cartoon, Jéja, Daniel Levi",NoCopyrightSounds,on__on.jpeg,on_&_on.mp3,nocopyrightsounds
+nocopyrightsounds,Shine,Spektrem,NoCopyrightSounds,ncs.jpeg,shine.mp3,nocopyrightsounds
+nocopyrightsounds,Firefly,Jim Yosef,Firefly,ncs.jpeg,firefly.mp3,nocopyrightsounds
+nocopyrightsounds,My Heart,"Different Heaven, EH!DE",My Heart,my_heart.jpeg,my_heart.mp3,nocopyrightsounds
+nocopyrightsounds,Hellcat,Desmeon,Hellcat,ncs.jpeg,hellcat.mp3,nocopyrightsounds
+nocopyrightsounds,Mortals,Warriyo,Mortals,mortals.jpeg,mortals.mp3,nocopyrightsounds
+nocopyrightsounds,Symbolism,Electro-Light,NoCopyrightSounds,symbolism.jpeg,symbolism.mp3,nocopyrightsounds
+nocopyrightsounds,Invisible,"Zeus X Crona, Julius Dreisig",Invisible,invisible.jpeg,invisible.mp3,nocopyrightsounds
+nocopyrightsounds,Blank,Disfigure,Blank,blank.jpeg,blank.mp3,nocopyrightsounds
+nocopyrightsounds,Why Do I?,"Bri Tolani, Unknown Brain",Why Do I?,why_do_i.jpeg,why_do_i.mp3,nocopyrightsounds
+nocopyrightsounds,Forever,"Vanze, Brenton Mattheus",Forever,ncs.jpeg,forever.mp3,nocopyrightsounds
+nocopyrightsounds,Ark,"Star Party, Zookeepers",Ark,ncs.jpeg,ark.mp3,nocopyrightsounds
+nocopyrightsounds,Fearless pt.II ,"Lost Sky, Chris Linton",Fearless Pt. II,fearless_pt_ii.jpeg,fearless_ptii.mp3,nocopyrightsounds
+nocopyrightsounds,Limitless,Elektronomia,Limitless,limitless.jpeg,limitless.mp3,nocopyrightsounds
+nocopyrightsounds,Feel Good,Syn Cole,Feel Good,feel_good.jpeg,feel_good.mp3,nocopyrightsounds
+nocopyrightsounds,Link,Jim Yosef,Link,link.jpeg,link.mp3,nocopyrightsounds
+nocopyrightsounds,Energy,Elektronomia,Energy,ncs.jpeg,energy.mp3,nocopyrightsounds
+nocopyrightsounds,High,JPB,High,ncs.jpeg,high.mp3,nocopyrightsounds
+nocopyrightsounds,Pill,"Heuse, Emma Sameth, Zeus X Crona",Pill,pill.jpeg,pill.mp3,nocopyrightsounds
+nocopyrightsounds,We Are,"Jo Cohen, Whales",NCS: The Best of 2016,ncs_the_best_of_2016.jpeg,we_are.mp3,nocopyrightsounds
+imagine_dragons,Demons,Imagine Dragons,Night Visions,night_visions.jpeg,demons.mp3,imagine_dragons
+imagine_dragons,Radioactive,Imagine Dragons,Night Visions,night_visions.jpeg,radioactive.mp3,imagine_dragons
+imagine_dragons,Believer,Imagine Dragons,Evolve,evolve.jpeg,believer.mp3,imagine_dragons
+imagine_dragons,Thunder,Imagine Dragons,Evolve,evolve.jpeg,thunder.mp3,imagine_dragons
+the_outfield,Your Love,The Outfield,Super Hits,super_hits.jpeg,your_love.mp3,the_outfield
+bryan_adams,Heaven,Bryan Adams,Reckless (30th Anniversary / Deluxe Edition),reckless_30th_anniversary__deluxe_edition.jpeg,heaven.mp3,bryan_adams
+bryan_adams,Please Forgive Me,Bryan Adams,Anthology,anthology.jpeg,please_forgive_me.mp3,bryan_adams
+bryan_adams,I Do It For You,Bryan Adams,Waking Up The Neighbours,waking_up_the_neighbours.jpeg,i_do_it_for_you.mp3,bryan_adams
+twenty_one_pilots,Heathens,Twenty One Pilots,Heathens,heathens.jpeg,heathens.mp3,twenty_one_pilots
+twenty_one_pilots,Stressed Out,Twenty One Pilots,Blurryface,blurryface.jpeg,stressed_out.mp3,twenty_one_pilots
+twenty_one_pilots,Chlorine,Twenty One Pilots,Trench,trench.jpeg,chlorine.mp3,twenty_one_pilots
+the_weeknd,Can't Feel My Face,The Weeknd,Beauty Behind The Madness,beauty_behind_the_madness.jpeg,cant_feel_my_face.mp3,the_weeknd
+the_weeknd,In Your Eyes,The Weeknd,After Hours,after_hours.jpeg,in_your_eyes.mp3,the_weeknd
+the_weeknd,Is There Someone Else?,The Weeknd,Dawn FM,dawn_fm.jpeg,is_there_someone_else.mp3,the_weeknd
+the_weeknd,Save Your Tears,The Weeknd,After Hours,after_hours.jpeg,save_your_tears.mp3,the_weeknd
+the_weeknd,Save Your Tears (Remix),"The Weeknd, Ariana Grande",After Hours,save_your_tears_remix.jpeg,save_your_tears_remix.mp3,the_weeknd
+the_weeknd,Die For You (Remix),"The Weeknd, Ariana Grande",Starboy,die_for_you_remix.jpeg,die_for_you_remix.mp3,the_weeknd
+the_weeknd,Out of Time,The Weeknd,Dawn FM,dawn_fm.jpeg,out_of_time.mp3,the_weeknd
+the_weeknd,In The Night,The Weeknd,Beauty Behind The Madness,beauty_behind_the_madness.jpeg,in_the_night.mp3,the_weeknd
+the_weeknd,Starboy,The Weeknd,Starboy,starboy.jpeg,starboy.mp3,the_weeknd
+the_weeknd,Heartless,The Weeknd,After Hours,after_hours.jpeg,heartless.mp3,the_weeknd
+the_weeknd,Creepin',The Weeknd,Heroes & Villains,heroes__villains.jpeg,creepin.mp3,the_weeknd
+the_weeknd,Die For You,The Weeknd,Starboy,starboy.jpeg,die_for_you.mp3,the_weeknd
+the_weeknd,I Was Never There,The Weeknd,My Dear Melancholy,my_dear_melancholy.jpeg,i_was_never_there.mp3,the_weeknd
+the_weeknd,Blinding Lights,The Weeknd,After Hours,after_hours.jpeg,blinding_lights.mp3,the_weeknd
+the_weeknd,I Feel It Coming,The Weeknd,Starboy,starboy.jpeg,i_feel_it_coming.mp3,the_weeknd
+the_weeknd,The Hills,The Weeknd,Beauty Behind The Madness,beauty_behind_the_madness.jpeg,the_hills.mp3,the_weeknd
+the_weeknd,After Hours,The Weeknd,After Hours,after_hours.jpeg,after_hours.mp3,the_weeknd
+the_weeknd,Call Out My Name,The Weeknd,My Dear Melancholy,my_dear_melancholy.jpeg,call_out_my_name.mp3,the_weeknd
+guns_n_roses,Don't Cry,Guns N' Roses,Use Your Illusion I,use_your_illusion_i.jpeg,dont_cry.mp3,guns_n_roses
+guns_n_roses,Patience,Guns N' Roses,Appetite For Destruction (Super Deluxe Edition),appetite_for_destruction_super_deluxe_edition.jpeg,patience.mp3,guns_n_roses
+guns_n_roses,Sweet Child O' Mine,Guns N' Roses,Appetite For Destruction,appetite_for_destruction.jpeg,sweet_child_o_mine.mp3,guns_n_roses
+tarcisio_do_acordeon,Obsessão,Tarcísio do Acordeon,A Nova Cara das Vaquejadas,a_nova_cara_das_vaquejadas.jpeg,obsessao.mp3,tarcisio_do_acordeon
+tarcisio_do_acordeon,Meu Sonho,Tarcísio do Acordeon,Meu Sonho - Pt. 2,meu_sonho__pt_2.jpeg,meu_sonho.mp3,tarcisio_do_acordeon
+tarcisio_do_acordeon,Jogo do Desprezo,Tarcísio do Acordeon,A Nova Cara das Vaquejadas,a_nova_cara_das_vaquejadas.jpeg,jogo_do_desprezo.mp3,tarcisio_do_acordeon
+tarcisio_do_acordeon,Proteção de Tela,Tarcísio do Acordeon,Meu Sonho - Pt. 2,meu_sonho__pt_2.jpeg,protecao_de_tela.mp3,tarcisio_do_acordeon
+tarcisio_do_acordeon,Eu Gosto É De Problema,Tarcísio do Acordeon,Meu Sonho - Pt. 3,meu_sonho__pt_3.jpeg,eu_gosto_e_de_problema.mp3,tarcisio_do_acordeon
+tarcisio_do_acordeon,Eu Tô Aí,Tarcísio do Acordeon,Meu Sonho - Pt. 3,meu_sonho__pt_3.jpeg,eu_to_ai.mp3,tarcisio_do_acordeon
+tarcisio_do_acordeon,Beijo Foda,Tarcísio do Acordeon,Só Resta Beber,so_resta_beber.jpeg,beijo_foda.mp3,tarcisio_do_acordeon
+tarcisio_do_acordeon,Imaturidade,Tarcísio do Acordeon,Meu Sonho - Pt. 2,meu_sonho__pt_2.jpeg,imaturidade.mp3,tarcisio_do_acordeon
+tarcisio_do_acordeon,Eu Tenho a Senha,Tarcísio do Acordeon,Meu Sonho - Parte 1,meu_sonho__parte_1.jpeg,eu_tenho_a_senha.mp3,tarcisio_do_acordeon
+tarcisio_do_acordeon,Coleção de Otário,Tarcísio do Acordeon,Meu Sonho - Pt. 2,meu_sonho__pt_2.jpeg,colecao_de_otario.mp3,tarcisio_do_acordeon
+tarcisio_do_acordeon,Nêga,"Tarcísio do Acordeon, Vitor Fernandes",A Nova Cara das Vaquejadas,a_nova_cara_das_vaquejadas.jpeg,nega.mp3,tarcisio_do_acordeon
+tarcisio_do_acordeon,Não Sou Perfeito,Tarcísio do Acordeon,A Nova Cara das Vaquejadas,a_nova_cara_das_vaquejadas.jpeg,nao_sou_perfeito.mp3,tarcisio_do_acordeon
+tarcisio_do_acordeon,Pra Não te Perder,Tarcísio do Acordeon,A Nova Cara das Vaquejadas,a_nova_cara_das_vaquejadas.jpeg,pra_nao_te_perder.mp3,tarcisio_do_acordeon
+tarcisio_do_acordeon,Lembrei de Você,Tarcísio do Acordeon,A Nova Cara das Vaquejadas,a_nova_cara_das_vaquejadas.jpeg,lembrei_de_voce.mp3,tarcisio_do_acordeon
+tarcisio_do_acordeon,Aprendi a Maltratar,Tarcísio do Acordeon,A Nova Cara das Vaquejadas,a_nova_cara_das_vaquejadas.jpeg,aprendi_a_maltratar.mp3,tarcisio_do_acordeon
+tarcisio_do_acordeon,Me Esqueça Se Puder,Tarcísio do Acordeon,Meu Sonho - Pt. 3,meu_sonho__pt_3.jpeg,me_esqueca_se_puder.mp3,tarcisio_do_acordeon
+tarcisio_do_acordeon,Quatro Semanas de Amor,Tarcísio do Acordeon,Só Resta Beber,so_resta_beber.jpeg,quatro_semanas_de_amor.mp3,tarcisio_do_acordeon
+tarcisio_do_acordeon,Medley Pagode,Tarcísio do Acordeon,Tome Forró,tome_forro.jpeg,medley_pagode.mp3,tarcisio_do_acordeon
+tarcisio_do_acordeon,Vaqueiro Ferido,Tarcísio do Acordeon,Meu Sonho - Parte 1,meu_sonho__parte_1.jpeg,vaqueiro_ferido.mp3,tarcisio_do_acordeon
+tarcisio_do_acordeon,Pra Vaquejada Eu Vou,Tarcísio do Acordeon,Pra Vaquejada Eu Vou,pra_vaquejada_eu_vou.jpeg,pra_vaquejada_eu_vou.mp3,tarcisio_do_acordeon
+tarcisio_do_acordeon,Literalmente,Tarcísio do Acordeon,Tome Forró,tome_forro.jpeg,literalmente.mp3,tarcisio_do_acordeon
+tarcisio_do_acordeon,Minha História,Tarcísio do Acordeon,A Nova Cara das Vaquejadas,a_nova_cara_das_vaquejadas.jpeg,minha_historia.mp3,tarcisio_do_acordeon
+tarcisio_do_acordeon,Hoje Dói,Tarcísio do Acordeon,Diferente dos Iguais,diferente_dos_iguais.jpeg,hoje_doi.mp3,tarcisio_do_acordeon
+tarcisio_do_acordeon,Deixa Eu Te Superar,Tarcísio do Acordeon,Deixa Eu Te Superar,deixa_eu_te_superar.jpeg,deixa_eu_te_superar.mp3,tarcisio_do_acordeon
+tarcisio_do_acordeon,Toque Carinhoso,"Vitor Fernandes, Tarcísio do Acordeon",Toque Carinhoso,toque_carinhoso.jpeg,toque_carinhoso.mp3,tarcisio_do_acordeon
+the_jacksons,Blame It on the Boogie,The Jacksons,Destiny,destiny.jpeg,blame_it_on_the_boogie.mp3,the_jacksons
+the_jacksons,Time Waits For No One,The Jacksons,Triumph,triumph.jpeg,time_waits_for_no_one.mp3,the_jacksons
+gusttavo_lima,Na Hora de Amar,Gusttavo Lima,O Embaixador (Ao Vivo),o_embaixador_ao_vivo.jpeg,na_hora_de_amar.mp3,gusttavo_lima
+gusttavo_lima,Nem Dormindo Consigo Te Esquecer,"Gusttavo Lima, Bruno & Marrone",Buteco do Gusttavo Lima (Deluxe),buteco_do_gusttavo_lima_deluxe.jpeg,nem_dormindo_consigo_te_esquecer.mp3,gusttavo_lima
+gusttavo_lima,Por Covardia Minha,Gusttavo Lima,O Embaixador (Ao Vivo),o_embaixador_ao_vivo.jpeg,por_covardia_minha.mp3,gusttavo_lima
+gusttavo_lima,Milu,Gusttavo Lima,Milu,milu.jpeg,milu.mp3,gusttavo_lima
+gusttavo_lima,Final do Fim,Gusttavo Lima,O Embaixador (Ao Vivo),o_embaixador_ao_vivo.jpeg,final_do_fim.mp3,gusttavo_lima
+gusttavo_lima,Respeita o Nosso Fim,Gusttavo Lima,O Embaixador (Ao Vivo),o_embaixador_ao_vivo.jpeg,respeita_o_nosso_fim.mp3,gusttavo_lima
+gusttavo_lima,Ela É Demais,Gusttavo Lima,Embaixador - 15 Anos (Ao Vivo),embaixador__15_anos_ao_vivo.jpeg,ela_e_demais.mp3,gusttavo_lima
+gusttavo_lima,Saudade da Minha Vida,Gusttavo Lima,Saudade da Minha Vida (Ao Vivo),saudade_da_minha_vida_ao_vivo.jpeg,saudade_da_minha_vida.mp3,gusttavo_lima
+gusttavo_lima,Cem Mil,Gusttavo Lima,O Embaixador (Ao Vivo),o_embaixador_ao_vivo.jpeg,cem_mil.mp3,gusttavo_lima
+gusttavo_lima,Carta Branca,Gusttavo Lima,Buteco do Gusttavo Lima (Deluxe),buteco_do_gusttavo_lima_deluxe.jpeg,carta_branca.mp3,gusttavo_lima
+gusttavo_lima,Termina Comigo Antes,Gusttavo Lima,Termina Comigo Antes,termina_comigo_antes.jpeg,termina_comigo_antes.mp3,gusttavo_lima
+gusttavo_lima,Saudade Sua,Gusttavo Lima,Gusttavo Lima e Você (Ao Vivo),gusttavo_lima_e_voce_ao_vivo.jpeg,saudade_sua.mp3,gusttavo_lima
+gusttavo_lima,Espetinho,Gusttavo Lima,O Embaixador - The Legacy (Ao Vivo),o_embaixador__the_legacy_ao_vivo.jpeg,espetinho.mp3,gusttavo_lima
+gusttavo_lima,Seu Veneno,Gusttavo Lima,Buteco do Gusttavo Lima (Deluxe),buteco_do_gusttavo_lima_deluxe.jpeg,seu_veneno.mp3,gusttavo_lima
+gusttavo_lima,Ficha Limpa,Gusttavo Lima,"Falando de Amor, Vol. 1",falando_de_amor_vol_1.jpeg,ficha_limpa.mp3,gusttavo_lima
+gusttavo_lima,De Menina Pra Mulher,Gusttavo Lima,O Embaixador - The Legacy (Ao Vivo),o_embaixador__the_legacy_ao_vivo.jpeg,de_menina_pra_mulher.mp3,gusttavo_lima
+gusttavo_lima,Passou da Conta,Gusttavo Lima,Inventor dos Amores (Ao Vivo),inventor_dos_amores_ao_vivo.jpeg,passou_da_conta.mp3,gusttavo_lima
+gusttavo_lima,Sempre Seu Homem,Gusttavo Lima,"Falando de Amor, Vol. 1",falando_de_amor_vol_1.jpeg,sempre_seu_homem.mp3,gusttavo_lima
+gusttavo_lima,Se Não Tivesse Ido,Gusttavo Lima,"Falando de Amor, Vol. 2",falando_de_amor_vol_2.jpeg,se_nao_tivesse_ido.mp3,gusttavo_lima
+gusttavo_lima,Eu Não Iria,Gusttavo Lima,O Embaixador (Ao Vivo),o_embaixador_ao_vivo.jpeg,eu_nao_iria.mp3,gusttavo_lima
+gusttavo_lima,Não Me Arranha,Gusttavo Lima,Buteco in Boston (Ao Vivo),buteco_in_boston_ao_vivo.jpeg,nao_me_arranha.mp3,gusttavo_lima
+gusttavo_lima,Apelido Carinhoso,Gusttavo Lima,"Buteco do Gusttavo Lima, Vol. 2",buteco_do_gusttavo_lima_vol_2.jpeg,apelido_carinhoso.mp3,gusttavo_lima
+gusttavo_lima,Diz Pra Mim,Gusttavo Lima,Do Outro Lado da Moeda,do_outro_lado_da_moeda.jpeg,diz_pra_mim.mp3,gusttavo_lima
+gusttavo_lima,Ele Não Tem,"Jonas Esticado, Gusttavo Lima",Ele Não Tem,ele_nao_tem.jpeg,ele_nao_tem.mp3,gusttavo_lima
+gusttavo_lima,Página de Amigos / Tentei Te Esquecer,Gusttavo Lima,Buteco do Gusttavo Lima (Deluxe),buteco_do_gusttavo_lima_deluxe.jpeg,potpourri_pagina_de_amigos__tentei_te_esquecer.mp3,gusttavo_lima
+adele,Rolling in the Deep,Adele,21,21.jpeg,rolling_in_the_deep.mp3,adele
+adele,Hello,Adele,25,25.jpeg,hello.mp3,adele
+adele,Set Fire to the Rain,Adele,21,21.jpeg,set_fire_to_the_rain.mp3,adele
+adele,Easy On Me,Adele,Easy On Me,easy_on_me.jpeg,easy_on_me.mp3,adele
+adele,Someone Like You,Adele,21,21.jpeg,someone_like_you.mp3,adele
+adele,Don't You Remember,Adele,21,21.jpeg,dont_you_remember.mp3,adele
+adele,Skyfall,Adele,Skyfall,skyfall.jpeg,skyfall.mp3,adele
+pablo,Porque Homem Não Chora,Pablo,É Só Dizer Que Sim,e_so_dizer_que_sim.jpeg,porque_homem_nao_chora.mp3,pablo
+pablo,Mega Sena,Pablo,Mega Sena,mega_sena.jpeg,mega_sena.mp3,pablo
+pablo,Fui Fiel,Pablo,Êee Paixão (A Voz Romântica),eee_paixao_a_voz_romantica.jpeg,fui_fiel.mp3,pablo
+pablo,Quase Me Chamou de Amor,Pablo,Êee Paixão (A Voz Romântica),eee_paixao_a_voz_romantica.jpeg,quase_me_chamou_de_amor.mp3,pablo
+pablo,"Bilu, Bilu",Pablo,É Só Dizer Que Sim,e_so_dizer_que_sim.jpeg,bilu_bilu.mp3,pablo
+pablo,Embolou,Pablo,É Só Dizer Que Sim,e_so_dizer_que_sim.jpeg,embolou.mp3,pablo
+pablo,Vou Te Amar,Pablo,Êee...Paixão!,eeepaixao.jpeg,vou_te_amar.mp3,pablo
+pablo,Depois Não Reclama,Pablo,Desculpe Aí,desculpe_ai.jpeg,depois_nao_reclama.mp3,pablo
+pablo,Displicente,Pablo,Desculpe Aí,desculpe_ai.jpeg,displicente.mp3,pablo
+pablo,Desculpe Aí,Pablo,Desculpe Aí,desculpe_ai.jpeg,desculpe_ai.mp3,pablo
+pablo,Imprevistos,Pablo,Desculpe Aí,desculpe_ai.jpeg,imprevistos.mp3,pablo
+pablo,Ta Fazendo Falta,"Pablo, Solange Almeida",É Só Dizer Que Sim,e_so_dizer_que_sim.jpeg,ta_fazendo_falta.mp3,pablo
+pablo,Ao Sabor do Vento,Pablo,"Pablo 20 ANOS, Pt.1 (Ao Vivo)",pablo_20_anos_pt1_ao_vivo.jpeg,ao_sabor_do_vento.mp3,pablo
+pablo,A Casa ao Lado,Pablo,"Pablo 20 ANOS, Pt.2 (Ao Vivo)",pablo_20_anos_pt2_ao_vivo.jpeg,a_casa_ao_lado.mp3,pablo
+pablo,Desapeguei,Pablo,"Pablo 20 ANOS, Pt.2 (Ao Vivo)",pablo_20_anos_pt2_ao_vivo.jpeg,desapeguei.mp3,pablo
+pablo,A Cena,Pablo,Desculpe Aí,desculpe_ai.jpeg,a_cena.mp3,pablo
+pablo,Eu Mudo,Pablo,Desculpe Aí,desculpe_ai.jpeg,eu_mudo.mp3,pablo
+pablo,Nível de Carência,Pablo,Desculpe Aí,desculpe_ai.jpeg,nivel_de_carencia.mp3,pablo
+pablo,Deixa de Caô,Pablo,Deixa de caô,deixa_de_cao.jpeg,deixa_de_cao.mp3,pablo
+pablo,Nunca mais,Pablo,Deixa de caô,deixa_de_cao.jpeg,nunca_mais.mp3,pablo
+pablo,Você não quer me ouvir,Pablo,Deixa de caô,deixa_de_cao.jpeg,voce_nao_quer_me_ouvir.mp3,pablo
+pablo,Agora,Pablo,É Só Dizer Que Sim,e_so_dizer_que_sim.jpeg,agora.mp3,pablo
+pablo,Sim,Pablo,É Só Dizer Que Sim,e_so_dizer_que_sim.jpeg,sim.mp3,pablo
+pablo,Tomara,Pablo,Êee Paixão (A Voz Romântica),eee_paixao_a_voz_romantica.jpeg,tomara.mp3,pablo
+pablo,Melhor Eu Ir,Pablo,A Voz Romântica,a_voz_romantica.jpeg,melhor_eu_ir.mp3,pablo
+pablo,Até Que Durou,Pablo,A Voz Romântica,a_voz_romantica.jpeg,ate_que_durou.mp3,pablo
+ze_vaqueiro,Letícia,Zé Vaqueiro,O Original,o_original.jpeg,leticia.mp3,ze_vaqueiro
+ze_vaqueiro,Foi Amor,Zé Vaqueiro,O Original,o_original.jpeg,foi_amor.mp3,ze_vaqueiro
+ze_vaqueiro,Cangote,Zé Vaqueiro,O Original,o_original.jpeg,cangote.mp3,ze_vaqueiro
+ze_vaqueiro,Meu Mel,Zé Vaqueiro,O Original,o_original.jpeg,meu_mel.mp3,ze_vaqueiro
+ze_vaqueiro,Meia Noite,Zé Vaqueiro,Meia Noite,meia_noite.jpeg,meia_noite.mp3,ze_vaqueiro
+ze_vaqueiro,Metade de um Abraço,Zé Vaqueiro,Metade de um Abraço,metade_de_um_abraco.jpeg,metade_de_um_abraco.mp3,ze_vaqueiro
+ze_vaqueiro,Volta Comigo BB,Zé Vaqueiro,Volta Comigo BB,volta_comigo_bb.jpeg,volta_comigo.mp3,ze_vaqueiro
+ze_vaqueiro,Lembrei de Você,Zé Vaqueiro,O Estouro das Vaquejadas,o_estouro_das_vaquejadas.jpeg,lembrei_de_voce_2.mp3,ze_vaqueiro
+ze_vaqueiro,Pode Ir,Zé Vaqueiro,O Estouro das Vaquejadas,o_estouro_das_vaquejadas.jpeg,pode_ir.mp3,ze_vaqueiro
+ze_vaqueiro,Decida,Zé Vaqueiro,O Original,o_original.jpeg,decida.mp3,ze_vaqueiro
+ze_vaqueiro,Confidencial,Zé Vaqueiro,O Estouro das Vaquejadas,o_estouro_das_vaquejadas.jpeg,confidencial.mp3,ze_vaqueiro
+ze_vaqueiro,Eu Tenho Medo,Zé Vaqueiro,O Original,o_original.jpeg,eu_tenho_medo.mp3,ze_vaqueiro
+ze_vaqueiro,Se Você Se Entregar,Zé Vaqueiro,Vem Me Amar,vem_me_amar.jpeg,se_voce_se_entregar.mp3,ze_vaqueiro
+ze_vaqueiro,Seu Desprezo,Zé Vaqueiro,O Estouro das Vaquejadas,o_estouro_das_vaquejadas.jpeg,seu_desprezo.mp3,ze_vaqueiro
+ze_vaqueiro,Minha Deusa,Zé Vaqueiro,Indícios,indicios.jpeg,minha_deusa.mp3,ze_vaqueiro
+ze_vaqueiro,Cena de Amor,"Brisa Star, Zé Vaqueiro",Cena de Amor,cena_de_amor.jpeg,cena_de_amor.mp3,ze_vaqueiro
+bruno_mars,Billionaire,"Travie McCoy, Bruno Mars",Lazarus,billionaire_feat_bruno_mars.jpeg,billionaire.mp3,bruno_mars
+bruno_mars,Grenade,Bruno Mars,Doo-Wops & Hooligans,doowops__hooligans.jpeg,grenade.mp3,bruno_mars
+bruno_mars,Count on Me,Bruno Mars,Doo-Wops & Hooligans,doowops__hooligans.jpeg,count_on_me.mp3,bruno_mars
+bruno_mars,Talking To The Moon,Bruno Mars,Doo-Wops & Hooligans,doowops__hooligans.jpeg,talking_to_the_moon.mp3,bruno_mars
+bruno_mars,Nothin' On You,"B.o.B, Bruno Mars",The Adventures of Bobby Ray,bob_presents_the_adventures_of_bobby_ray.jpeg,nothin_on_you.mp3,bruno_mars
+bruno_mars,It Will Rain,Bruno Mars,It Will Rain,it_will_rain.jpeg,it_will_rain.mp3,bruno_mars
+bruno_mars,Versace on the Floor,Bruno Mars,Versace On The Floor,versace_on_the_floor.jpeg,versace_on_the_floor.mp3,bruno_mars
+bruno_mars,That's What I Like,Bruno Mars,24K Magic,24k_magic.jpeg,thats_what_i_like.mp3,bruno_mars
+bruno_mars,Locked Out Of Heaven,Bruno Mars,Unorthodox Jukebox,unorthodox_jukebox.jpeg,locked_out_of_heaven.mp3,bruno_mars
+bruno_mars,Finesse,Bruno Mars,Finesse,finesse.jpeg,finesse.mp3,bruno_mars
+bruno_mars,Skate,"Bruno Mars, Anderson .Paak",An Evening With Silk Sonic,an_evening_with_silk_sonic.jpeg,skate.mp3,bruno_mars
+bruno_mars,Smokin Out The Window,"Bruno Mars, Anderson .Paak",An Evening With Silk Sonic,an_evening_with_silk_sonic.jpeg,smokin_out_the_window.mp3,bruno_mars
+bruno_mars,Leave the Door Open,"Bruno Mars, Anderson .Paak",An Evening With Silk Sonic,an_evening_with_silk_sonic.jpeg,leave_the_door_open.mp3,bruno_mars
+bruno_mars,Treasure,Bruno Mars,Unorthodox Jukebox,unorthodox_jukebox.jpeg,treasure.mp3,bruno_mars
+bruno_mars,Uptown Funk,Bruno Mars,Uptown Special,uptown_special.jpeg,uptown_funk.mp3,bruno_mars
+bruno_mars,Just The Way You Are,Bruno Mars,Doo-Wops & Hooligans,doowops__hooligans.jpeg,just_the_way_you_are.mp3,bruno_mars
+bruno_mars,The Lazy Song,Bruno Mars,Doo-Wops & Hooligans,doowops__hooligans.jpeg,the_lazy_song.mp3,bruno_mars
+bruno_mars,After Last Night,"Bruno Mars, Anderson .Paak",An Evening With Silk Sonic,an_evening_with_silk_sonic.jpeg,after_last_night.mp3,bruno_mars
+bruno_mars,24K Magic,Bruno Mars,24k Magic,24k_magic.jpeg,24k_magic.mp3,bruno_mars
+linkin_park,One Step Closer,Linkin Park,Hybrid Theory (Bonus Edition),hybrid_theory_bonus_edition.jpeg,one_step_closer.mp3,linkin_park
+linkin_park,Papercut,Linkin Park,Hybrid Theory (Bonus Edition),hybrid_theory_bonus_edition.jpeg,papercut.mp3,linkin_park
+linkin_park,In the End,Linkin Park,Hybrid Theory (Bonus Edition),hybrid_theory_bonus_edition.jpeg,in_the_end.mp3,linkin_park
+linkin_park,Pushing Me Away,Linkin Park,Hybrid Theory (Bonus Edition),hybrid_theory_bonus_edition.jpeg,pushing_me_away.mp3,linkin_park
+linkin_park,Faint,Linkin Park,Meteora (Bonus Edition),meteora_bonus_edition.jpeg,faint.mp3,linkin_park
+linkin_park,Crawling,Linkin Park,Hybrid Theory (Bonus Edition),hybrid_theory_bonus_edition.jpeg,crawling.mp3,linkin_park
+linkin_park,Lying from You,Linkin Park,Meteora (Bonus Edition),meteora_bonus_edition.jpeg,lying_from_you.mp3,linkin_park
+linkin_park,From the Inside,Linkin Park,Meteora (Bonus Edition),meteora_bonus_edition.jpeg,from_the_inside.mp3,linkin_park
+linkin_park,Runaway,Linkin Park,Hybrid Theory (Bonus Edition),hybrid_theory_bonus_edition.jpeg,runaway.mp3,linkin_park
+linkin_park,With You,Linkin Park,Hybrid Theory (Bonus Edition),hybrid_theory_bonus_edition.jpeg,with_you.mp3,linkin_park
+linkin_park,Somewhere I Belong,Linkin Park,Meteora (Bonus Edition),meteora_bonus_edition.jpeg,somewhere_i_belong.mp3,linkin_park
+linkin_park,Numb,Linkin Park,Meteora,meteora.jpeg,numb.mp3,linkin_park
+linkin_park,What I've Done,Linkin Park,Minutes to Midnight,minutes_to_midnight.jpeg,what_ive_done.mp3,linkin_park
+linkin_park,Given Up,Linkin Park,Minutes to Midnight,minutes_to_midnight.jpeg,given_up.mp3,linkin_park
+linkin_park,Breaking the Habit,Linkin Park,Meteora (Bonus Edition),meteora_bonus_edition.jpeg,breaking_the_habit.mp3,linkin_park
+linkin_park,Leave Out All The Rest,Linkin Park,Minutes to Midnight,minutes_to_midnight.jpeg,leave_out_all_the_rest.mp3,linkin_park
+linkin_park,Shadow of the Day,Linkin Park,Minutes to Midnight,minutes_to_midnight.jpeg,shadow_of_the_day.mp3,linkin_park
+linkin_park,BURN IT DOWN,Linkin Park,LIVING THINGS,living_things.jpeg,burn_it_down.mp3,linkin_park
+linkin_park,Lost,Linkin Park,LIVING THINGS,living_things.jpeg,lost.mp3,linkin_park
+linkin_park,Waiting for the End,Linkin Park,A Thousand Suns,a_thousand_suns.jpeg,waiting_for_the_end.mp3,linkin_park
+linkin_park,One More Light,Linkin Park,One More Light,one_more_light.jpeg,one_more_light.mp3,linkin_park
+rick_astley,Never Gonna Give You Up,Rick Astley,Whenever You Need Somebody,whenever_you_need_somebody.jpeg,never_gonna_give_you_up.mp3,rick_astley
+rick_astley,Together Forever,Rick Astley,Whenever You Need Somebody,whenever_you_need_somebody.jpeg,together_forever.mp3,rick_astley
+rick_james,Ebony Eyes,Rick James,Cold Blooded (Expanded Edition),cold_blooded_expanded_edition.jpeg,ebony_eyes.mp3,rick_james
+cristiano_araujo,Maus Bocados,Cristiano Araújo,Continua,continua.jpeg,maus_bocados.mp3,cristiano_araujo
+cristiano_araujo,É Com Ela Que Eu Estou,Cristiano Araújo,In The Cities - Ao Vivo Em Cuiabá,in_the_cities__ao_vivo_em_cuiaba.jpeg,e_com_ela_que_eu_estou.mp3,cristiano_araujo
+arctic_monkeys,I Wanna Be Yours,Arctic Monkeys,AM,am.jpeg,i_wanna_be_yours.mp3,arctic_monkeys
+arctic_monkeys,Do I Wanna Know?,Arctic Monkeys,AM,am.jpeg,do_i_wanna_know.mp3,arctic_monkeys
+arctic_monkeys,505,Arctic Monkeys,Favourite Worst Nightmare,favourite_worst_nightmare_standard_version.jpeg,505.mp3,arctic_monkeys
+the_jackson_5,I'll Be There,The Jackson 5,Third Album,third_album.jpeg,ill_be_there.mp3,the_jackson_5
+the_jackson_5,ABC,The Jackson 5,ABC,abc.jpeg,abc.mp3,the_jackson_5
+the_jackson_5,I Want You Back,The Jackson 5,Diana Ross Presents The Jackson 5,diana_ross_presents_the_jackson_5.jpeg,i_want_you_back.mp3,the_jackson_5
+alan_walker,Alone,Alan Walker,Different World,different_world.jpeg,alone.mp3,alan_walker
+alan_walker,Faded,Alan Walker,Different World,different_world.jpeg,faded.mp3,alan_walker
+alan_walker,Sing Me to Sleep,Alan Walker,Sing Me to Sleep,sing_me_to_sleep.jpeg,sing_me_to_sleep.mp3,alan_walker
+alan_walker,Darkside,"Alan Walker, Au/Ra, Tomine Harket",Different World,different_world.jpeg,darkside.mp3,alan_walker
+alan_walker,The Spectre,Alan Walker,The Spectre,the_spectre.jpeg,the_spectre.mp3,alan_walker
+alan_walker,Blue,"Alan Walker, Ina Wroldsen",Walkerverse Pt. I & II,walkerverse_pt_i__ii.jpeg,blue.mp3,alan_walker
+alan_walker,Tired,"Alan Walker, Gavin James",Tired,tired.jpeg,tired.mp3,alan_walker
+alan_walker,Somebody Like U,"Alan Walker, Au/Ra",Walkerverse Pt. I & II,walkerverse_pt_i__ii.jpeg,somebody_like_u.mp3,alan_walker
+scorpions,Send Me An Angel,Scorpions,Crazy World,crazy_world.jpeg,send_me_an_angel.mp3,scorpions
+scorpions,Still Loving You,Scorpions,Love At First Sting,love_at_first_sting.jpeg,still_loving_you.mp3,scorpions
+scorpions,Always Somewhere,Scorpions,Lovedrive,lovedrive.jpeg,always_somewhere.mp3,scorpions
+scorpions,Wind of Change,Scorpions,Crazy World,crazy_world.jpeg,wind_of_change.mp3,scorpions
+ed_sheeran,Shape of You,Ed Sheeran,Shape of You,deluxe.jpeg,shape_of_you.mp3,ed_sheeran
+ed_sheeran,Thinking Out Loud,Ed Sheeran,X,x_deluxe_edition.jpeg,thinking_out_loud.mp3,ed_sheeran
+ed_sheeran,Perfect,Ed Sheeran,Divide,deluxe.jpeg,perfect.mp3,ed_sheeran
+ed_sheeran,Photograph,Ed Sheeran,X,x_deluxe_edition.jpeg,photograph.mp3,ed_sheeran
+evanescence,Bring Me To Life,Evanescence,Fallen,fallen.jpeg,bring_me_to_life.mp3,evanescence
+michael_jackson,Rock With You,Michael Jackson,Off the Wall,off_the_wall.jpeg,rock_with_you.mp3,michael_jackson
+michael_jackson,Remember the Time,Michael Jackson,Dangerous,dangerous.jpeg,remember_the_time.mp3,michael_jackson
+michael_jackson,Beat It,Michael Jackson,Thriller,thriller.jpeg,beat_it.mp3,michael_jackson
+michael_jackson,Don't Stop 'Til You Get Enough,Michael Jackson,Off the Wall,off_the_wall.jpeg,dont_stop_til_you_get_enough.mp3,michael_jackson
+michael_jackson,Thriller,Michael Jackson,Thriller 25 Super Deluxe Edition,thriller_25_super_deluxe_edition.jpeg,thriller.mp3,michael_jackson
+michael_jackson,The Girl Is Mine,"Michael Jackson, Paul McCartney",Thriller,thriller.jpeg,the_girl_is_mine.mp3,michael_jackson
+michael_jackson,Black or White,Michael Jackson,Dangerous,dangerous.jpeg,black_or_white.mp3,michael_jackson
+michael_jackson,They Dont Care About Us,Michael Jackson,"HIStory - PAST, PRESENT AND FUTURE - BOOK I",history__past_present_and_future__book_i.jpeg,they_dont_care_about_us.mp3,michael_jackson
+michael_jackson,Bad,Michael Jackson,Number Ones,number_ones.jpeg,bad.mp3,michael_jackson
+michael_jackson,Billie Jean,Michael Jackson,Thriller 25 Super Deluxe Edition,thriller_25_super_deluxe_edition.jpeg,billie_jean.mp3,michael_jackson
+michael_jackson,You Are Not Alone,Michael Jackson,"HIStory - PAST, PRESENT AND FUTURE - BOOK I",history__past_present_and_future__book_i.jpeg,you_are_not_alone.mp3,michael_jackson
+michael_jackson,Music And Me,Michael Jackson,Music and Me,music_and_me.jpeg,music_and_me.mp3,michael_jackson
+michael_jackson,Ben,Michael Jackson,Ben,ben.jpeg,ben.mp3,michael_jackson
+michael_jackson,Man in the Mirror,Michael Jackson,"HIStory - PAST, PRESENT AND FUTURE - BOOK I",history__past_present_and_future__book_i.jpeg,man_in_the_mirror.mp3,michael_jackson
+avicii,Wake Me Up,Avicii,True,true.jpeg,wake_me_up.mp3,avicii
+avicii,Waiting for Love,Avicii,Stories,stories.jpeg,waiting_for_love.mp3,avicii
+avicii,The Nights,Avicii,The Days / Nights,the_days__nights.jpeg,the_nights.mp3,avicii
+survivor,Eye of the Tiger,Survivor,Rocky IV,rocky_iv.jpeg,eye_of_the_tiger.mp3,survivor
+justin_bieber,What Do You Mean?,Justin Bieber,Purpose,purpose_deluxe.jpeg,what_do_you_mean.mp3,justin_bieber
+justin_bieber,Sorry,Justin Bieber,Purpose,purpose_deluxe.jpeg,sorry.mp3,justin_bieber
+justin_bieber,Baby,"Justin Bieber, Ludacris",My World 2.0,my_world_20.jpeg,baby.mp3,justin_bieber
+justin_bieber,Peaches,"Justin Bieber, Daniel Caesar, Giveon",Justice,justice.jpeg,peaches.mp3,justin_bieber
+justin_bieber,Yummy,Justin Bieber,Changes,changes.jpeg,yummy.mp3,justin_bieber
+justin_bieber,Intentions,"Justin Bieber, Quavo",Intentions,intentions.jpeg,intentions.mp3,justin_bieber
+justin_bieber,Stay,"The Kid LAROI, Justin Bieber",F*ck Love 3: Over You,fck_love_3_over_you.jpeg,stay.mp3,justin_bieber
+justin_bieber,Somebody to Love,Justin Bieber,My World 2.0,my_world_20.jpeg,somebody_to_love.mp3,justin_bieber
+justin_bieber,Never Say Never,"Justin Bieber, Jaden",Never Say Never: The Remixes,never_say_never__the_remixes.jpeg,never_say_never.mp3,justin_bieber
+justin_bieber,One Time,Justin Bieber,My World,my_world.jpeg,one_time.mp3,justin_bieber
+tears_for_fears,Head Over Heels,Tears For Fears,Rule The World: The Greatest Hits,rule_the_world_the_greatest_hits.jpeg,head_over_heels.mp3,tears_for_fears
+tears_for_fears,Everybody Wants To Rule The World,Tears For Fears,Songs From The Big Chair (Super Deluxe Edition),songs_from_the_big_chair_super_deluxe_edition.jpeg,everybody_wants_to_rule_the_world.mp3,tears_for_fears
+the_neighbourhood,Sweater Weather,The Neighbourhood,I Love You,i_love_you.jpeg,sweater_weather.mp3,the_neighbourhood
+renno,Amor de Colchão,Renno,Pra Sofrer e Beber,pra_sofrer_e_beber.jpeg,amor_de_colchao.mp3,renno
+renno,A Pior Parte,Renno,Pra Sofrer e Beber,pra_sofrer_e_beber.jpeg,a_pior_parte.mp3,renno
+renno,3 Dias,Renno,Piseiro Summer Deluxe,piseiro_summer_deluxe.jpeg,3_dias.mp3,renno
+renno,Cartão de Visita,Renno,Pra Sofrer e Beber,pra_sofrer_e_beber.jpeg,cartao_de_visita.mp3,renno
+renno,Só Pra Me Machucar,Renno,Pra Sofrer e Beber,pra_sofrer_e_beber.jpeg,so_pra_me_machucar.mp3,renno
+renno,Quem Perdeu que Sofra,Renno,Pra Sofrer e Beber,pra_sofrer_e_beber.jpeg,quem_perdeu_que_sofra.mp3,renno
+renno,Valeu Ela,Renno,"Pra Dançar, Curtir e Beber: Em Casa",pra_dancar_curtir_e_beber_em_casa.jpeg,valeu_ela.mp3,renno
+renno,Evita esse Sofrimento,Renno,Pra Sofrer e Beber,pra_sofrer_e_beber.jpeg,evita_esse_sofrimento.mp3,renno
+renno,Valeu Cama,Renno,Pra Sofrer e Beber,pra_sofrer_e_beber.jpeg,valeu_cama.mp3,renno
+renno,A Culpa é Dela,Renno,Pra Sofrer e Beber,pra_sofrer_e_beber.jpeg,a_culpa_e_dela.mp3,renno
+renno,Sexta-feira,Renno,Pra Sofrer e Beber,pra_sofrer_e_beber.jpeg,sexta_feira.mp3,renno
+renno,Minha Pequena,Renno,Piseiro Summer Deluxe,piseiro_summer_deluxe.jpeg,minha_pequena.mp3,renno
+renno,Caras e Bocas,Renno,"Pra dançar, curtir e beber",pra_dancar_curtir_e_beber.jpeg,caras_e_bocas.mp3,renno
+renno,Ou a Vaquejada ou Eu,Renno,Pra Sofrer e Beber,pra_sofrer_e_beber.jpeg,ou_a_vaquejada_ou_eu.mp3,renno
+renno,Erro Gostoso,Renno,"Pra dançar, curtir e beber",pra_dancar_curtir_e_beber.jpeg,erro_gostoso.mp3,renno
+renno,Assume ou Solta,Renno,"Pra dançar, curtir e beber",pra_dancar_curtir_e_beber.jpeg,assume_ou_solta.mp3,renno
+renno,Resumo,Renno,Resumo,resumo.jpeg,resumo.mp3,renno
+renno,Fica com Eu,Renno,Pra Sofrer e Beber,pra_sofrer_e_beber.jpeg,fica_com_eu.mp3,renno
+renno,Detalhe Pendente,Renno,Pra Sofrer e Beber,pra_sofrer_e_beber.jpeg,detalhe_pendente.mp3,renno
+renno,Love Disfarçado,Renno,Pra Sofrer e Beber,pra_sofrer_e_beber.jpeg,love_disfarcado.mp3,renno
