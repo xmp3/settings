@@ -17,8 +17,6 @@ id,collection_id
 90s,the_outfield
 90s,usa_for_africa
 90s,whitney_houston
-hip_hop,rick_james
-hip_hop,rick_james
 brazilian,alok
 brazilian,conde_do_forro
 brazilian,cristiano_araujo
@@ -43,6 +41,8 @@ forro,gusttavo_lima
 forro,ze_vaqueiro
 forro,tarcisio_do_acordeon
 forro,calcinha_preta
+hip_hop,rick_james
+hip_hop,rick_james
 hip_hop,akon
 hip_hop,eminem
 hip_hop,sean_kingston
@@ -133,6 +133,7 @@ music,whitney_houston
 music,ze_vaqueiro
 music,zedd
 music,calcinha_preta
+music,falamansa
 pop,adele
 pop,bruno_mars
 pop,cyndi_lauper
